@@ -2,16 +2,8 @@ PREDEF:
   - dedication.re
 
 CHAPS:
-  - 現在:
-    - tanuki.re
-    - karin.re
-  - 過去:
-    - kanini-naru.re
-    - mimi.re
-    - antoku.re
-  - 未来:
-    - masscat.re
-    - nemo.re
+    - tanuki-to-heikegani.re
+    - daremo-inakunattasekaide.re
 
 APPENDIX:
 

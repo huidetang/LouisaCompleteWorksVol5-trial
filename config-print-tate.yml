@@ -9,17 +9,17 @@ prt: ○○印刷所
 direction: "rtl"
 
 # 表紙と裏表紙は作らない
-cover: false
+cover: title.xhtml
 
 # 大扉は画像で作る
-titlefile: title.xhtml
+titlepage: false
 
 # 奥付は自作したXMTMLファイルを使う
 colophon: colophon.xhtml
 
 # 著者紹介は自作したXMTMLファイルを使う
-profile: profile.xhtml
-profiletitle: 著者紹介
+# profile: profile.xhtml
+# profiletitle: 著者紹介
 
 # 目次の章立ての部分にリンクを作らない
 chapterlink: null
