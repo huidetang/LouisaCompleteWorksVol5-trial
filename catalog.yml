@@ -1,12 +1,12 @@
 PREDEF:
-  - dedication.re
+  # - dedication.re
 
 CHAPS:
-    - tanuki-to-heikegani.re
+    # - tanuki-to-heikegani.re
     - daremo-inakunattasekaide.re
 
 APPENDIX:
 
 POSTDEF:
-  - postscript.re
-  - profile.re
+  # - postscript.re
+  # - profile.re

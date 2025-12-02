@@ -3,13 +3,14 @@
 inherit: ["config.yml"]
 
 # 印刷所の名前を設定する
-prt: ○○印刷所
+prt: 自宅のプリンタ
 
 # 縦書き
 direction: "rtl"
 
 # 表紙と裏表紙は作らない
-cover: title.xhtml
+cover: cover.xhtml
+coverimage: frontcover.png
 
 # 大扉は画像で作る
 titlepage: false
